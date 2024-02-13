@@ -1,9 +1,9 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
+title: 关于
+author: daijunhao
+date: 2024-02-13
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+此博客使用github搭建,搭建人:daijunhao
